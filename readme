@@ -1,6 +1,6 @@
 This project was for EXOR version 4.4 using the ArcGIS 9.1 Spatial Manager.  
 
-This project is closed as of 4/30/2014.  Refer to pydot for the latest development of ETL tools to use between
+This project is closed as of 4/30/2014.  Refer to the pydot repository for the latest development of ETL tools to use between
 EXOR, ESRI, Oracle Spatial and GeoMedia linear referencing.  
 
 readme on my local drive,  in user folder
